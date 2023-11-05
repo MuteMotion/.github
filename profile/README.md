@@ -42,10 +42,6 @@ To get started with MuteMotion, follow these steps:
 3. Install the necessary dependencies.
 4. Run the project locally for testing and development.
 
-## Contributing
-
-We welcome contributions from the open-source community. If you're interested in contributing to MuteMotion, please check out our [Contributing Guidelines](https://github.com/MuteMotion/Guidelines).
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and distribute it in your projects.
