@@ -1,6 +1,6 @@
 # MuteMotion
 
-MuteMotion is an innovative project that combines an Advanced Driver Assistance System (ADAS) with real-time sign language translation. It aims to empower the deaf and mute community, enhance road safety, and promote inclusivity.
+### MuteMotion is an innovative project that combines an Advanced Driver Assistance System (ADAS) with real-time sign language translation. It aims to empower the deaf and mute community, enhance road safety, and promote inclusivity.
 
 ## Table of Contents
 
@@ -48,8 +48,4 @@ We welcome contributions from the open-source community. If you're interested in
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in your projects.
-
----
-
-MuteMotion is a pioneering project that brings together technology, accessibility, and communication. Join us in our mission to make our roads safer and more inclusive for everyone.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and distribute it in your projects.
