@@ -44,7 +44,7 @@ To get started with MuteMotion, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you're interested in contributing to MuteMotion, please check out our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the open-source community. If you're interested in contributing to MuteMotion, please check out our [Contributing Guidelines](https://github.com/MuteMotion/Guidelines).
 
 ## License
 
