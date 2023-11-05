@@ -44,4 +44,4 @@ To get started with MuteMotion, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and distribute it in your projects.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in your projects.
